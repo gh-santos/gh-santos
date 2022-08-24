@@ -1,6 +1,6 @@
 ### Olá, sou o Gustavo Santos 👋
 
-- 🔭 I’m currently working on Suporte técnico, Microsoft 365 e Monitoramento de Infraestrutura.
+- 🔭 Atualmente trabalho com Suporte técnico, Microsoft 365 e Monitoramento de Infraestrutura.
 - 🌱 Estudando sobre Infraestrutura as Code
 - 😄 Pronouns: ele/dele
 
